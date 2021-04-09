@@ -20,5 +20,12 @@ public class OperacionesBasicas {
     public void resta(){
 
     }
+    public void dividir(){
+
+    }
+
+    public void multiplicar(){
+
+    }
 
 }
