@@ -1,7 +1,7 @@
 package com.company;
 
 public class OperacionesBasicas {
-    Int number1;
+    int number1;
     int number2;
     double resultado;
 
@@ -12,7 +12,7 @@ public class OperacionesBasicas {
         number2=0;
         resultado=0;
     }
-    //métodos que se usarán
+    //metodos que se usaran
     public void suma(){
 
     }
